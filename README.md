@@ -1,16 +1,14 @@
-## Hi there 👋
+Hi, I'm Rajesh ch - rajesh-infosecurity
+*Aspiring Cybersecurity Analyst | VAPT & Penetration Testing | Web Application Security | Burp Suite | Nmap | OWASP Top 10 | Job -Ready Projects.
+🔭 Current project: *ToDO APP* (Auth + Django + MySQL)
+✅ I write tests with cisco 
+🌱 Learning: online platforms,practical projects
+🌐 Portfolio/LinkedIn:   / https://www.linkedin.com/in/rajesh-ch-62b868348/   
 
-<!--
-**rajesh-infosecurity/rajesh-infosecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech
+kalilinux, Nessus, Metasploit, Sqlmap,Burpsuite, HTML/CSS,Staiclevel mobile pen testing, Git, Docker, Pytest, GitHub Actions
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects (Pinned below)
+1. Web Application Penetration Testing Lab
+2. Phishing Attack Simulation & Traffic Analysis — Security Lab
+3. Network Vulnerability Assessment using Nmap
